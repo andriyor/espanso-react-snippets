@@ -1,0 +1,23 @@
+{
+  "name": "espanso-react-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriyor/espanso-react-snippets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andriyor/espanso-react-snippets/issues"
+  },
+  "homepage": "https://github.com/andriyor/espanso-react-snippets#readme",
+  "dependencies": {
+    "active-win": "^7.6.1"
+  }
+}
